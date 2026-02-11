@@ -3,13 +3,11 @@
 **Author:** Luis Morales Layja  
 **Master's Thesis Project**
 
-## Introduction
-
-This repository contains the code and documentation for the research project regarding the optimization of Bio-Inspired Deep Convolutional Neural Networks.
+## Introduction and Key Contributions
 
 This project is built upon the **BioNet** framework developed by [Evans et al. (2022)](https://github.com/bdevans/BioNet). 
 
-### Key Contributions
+
 The main goal of this project was to extend the VGG-16 architecture with Gabor filters by implementing bio-inspired mechanisms:
 
 1.  **Retinal Information Bottleneck (RIB):** Simulating the compression of visual information found in the retina.
@@ -72,7 +70,7 @@ In addition to the original BioNet arguments, this repository introduces:
 Below are the commands to reproduce the experiments conducted in this research.
 
 #### 1. Baseline Model (VGG-16 + Gabor Filters)
-Training and evaluation of the standard bio-inspired model introduced by [Evans et al. (2022)] without new additions.
+Training and evaluation of the standard bio-inspired model introduced by [Evans et al. (2022)](https://github.com/bdevans/BioNet) without new additions.
 
 ```bash
 python model.py --convolution Gabor --base VGG16 --epochs 100 \
