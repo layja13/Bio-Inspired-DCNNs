@@ -1,0 +1,471 @@
+Model,Convolution,Base,Weights,Trial,Seed,Set,Noise,LI,Level,Loss,Accuracy
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Uniform,0,0,8.479621887,0.21
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Uniform,1,0.1,6.620128632,0.27
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Uniform,2,0.2,5.907392502,0.29
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Uniform,3,0.3,4.898234367,0.36
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Uniform,4,0.4,4.6410923,0.37
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Uniform,5,0.5,3.974549294,0.39
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Uniform,6,0.6,3.910044193,0.41
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Uniform,7,0.7,3.538529634,0.35
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Uniform,8,0.8,3.733651161,0.29
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Uniform,9,0.9,3.939053535,0.29
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Uniform,10,1,4.154709816,0.19
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Salt and Pepper,0,0,8.479621887,0.21
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Salt and Pepper,1,0.1,4.902634144,0.38
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Salt and Pepper,2,0.2,3.924178839,0.37
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Salt and Pepper,3,0.3,4.537561417,0.24
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Salt and Pepper,4,0.4,5.019206047,0.18
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Salt and Pepper,5,0.5,6.054827213,0.12
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Salt and Pepper,6,0.6,6.619450092,0.11
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Salt and Pepper,7,0.7,7.59485817,0.11
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Salt and Pepper,8,0.8,7.995805264,0.07
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Salt and Pepper,9,0.9,8.998064995,0.11
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Salt and Pepper,10,1,56.41221619,0.09
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,High Pass,0,100,9.66053009,0.27
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,High Pass,1,63.09573445,8.856714249,0.27
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,High Pass,2,39.81071706,8.424304962,0.29
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,High Pass,3,25.11886432,6.949294567,0.26
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,High Pass,4,15.84893192,5.677614212,0.23
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,High Pass,5,10,4.890186787,0.22
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,High Pass,6,6.309573445,4.467796803,0.2
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,High Pass,7,3.981071706,4.95707655,0.19
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,High Pass,8,2.511886432,4.611533642,0.17
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,High Pass,9,1.584893192,4.144646168,0.15
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,High Pass,10,1,3.588545322,0.14
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Low Pass,0,1,7.294119358,0.22
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Low Pass,1,1.584893192,6.358885288,0.27
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Low Pass,2,2.511886432,5.050848007,0.34
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Low Pass,3,3.981071706,2.436343431,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Low Pass,4,6.309573445,2.431548119,0.25
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Low Pass,5,10,4.052875996,0.09
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Low Pass,6,15.84893192,4.254854202,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Low Pass,7,25.11886432,4.699655056,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Low Pass,8,39.81071706,5.05613184,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Low Pass,9,63.09573445,4.935247898,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Low Pass,10,100,5.913966179,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Contrast,0,1,8.479621887,0.21
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Contrast,1,0.630957344,5.774731636,0.28
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Contrast,2,0.398107171,5.245110512,0.34
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Contrast,3,0.251188643,4.89423418,0.31
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Contrast,4,0.158489319,3.940571308,0.31
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Contrast,5,0.1,3.242886305,0.23
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Contrast,6,0.063095734,3.082155228,0.19
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Contrast,7,0.039810717,3.216353178,0.17
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Contrast,8,0.025118864,3.509364128,0.11
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Contrast,9,0.015848932,3.926463366,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Contrast,10,0.01,4.436439037,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Phase Scrambling,0,0,8.479621887,0.21
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Phase Scrambling,1,18,7.034239292,0.29
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Phase Scrambling,2,36,5.843312263,0.32
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Phase Scrambling,3,54,4.745133877,0.37
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Phase Scrambling,4,72,3.873244047,0.36
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Phase Scrambling,5,90,3.306758642,0.38
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Phase Scrambling,6,108,3.207715511,0.33
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Phase Scrambling,7,126,3.355174065,0.28
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Phase Scrambling,8,144,3.629031658,0.14
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Phase Scrambling,9,162,4.123800755,0.13
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Phase Scrambling,10,180,4.028397083,0.12
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Darken,0,0,8.479621887,0.21
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Darken,1,-0.1,8.102851868,0.22
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Darken,2,-0.2,8.011497498,0.22
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Darken,3,-0.3,8.174912453,0.23
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Darken,4,-0.4,8.719129562,0.25
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Darken,5,-0.5,9.816337585,0.28
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Darken,6,-0.6,7.843970299,0.29
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Darken,7,-0.7,5.377164841,0.27
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Darken,8,-0.8,3.41855216,0.28
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Darken,9,-0.9,2.928656578,0.26
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Darken,10,-1,6.704518318,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Brighten,0,0,8.479621887,0.21
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Brighten,1,0.1,6.991542816,0.25
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Brighten,2,0.2,5.863754749,0.26
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Brighten,3,0.3,5.029517651,0.26
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Brighten,4,0.4,4.414416313,0.33
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Brighten,5,0.5,3.943786621,0.35
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Brighten,6,0.6,3.568949699,0.36
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Brighten,7,0.7,3.236772776,0.37
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Brighten,8,0.8,2.773143291,0.37
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Brighten,9,0.9,2.500597954,0.31
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Brighten,10,1,4.15656662,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Rotation,0,0,8.479621887,0.21
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Rotation,1,90,12.32261944,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Rotation,2,180,14.17263412,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Rotation,3,270,12.17490768,0.09
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Invert,0,0,8.479621887,0.21
+Gabor_VGG16,Gabor,VGG16,None,1,42,contours,Invert,1,1,6.334518909,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Uniform,0,0,49.48553085,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Uniform,1,0.1,34.80947876,0.24
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Uniform,2,0.2,23.1630497,0.29
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Uniform,3,0.3,18.21477699,0.31
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Uniform,4,0.4,11.20748615,0.32
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Uniform,5,0.5,12.65883636,0.24
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Uniform,6,0.6,11.62680626,0.13
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Uniform,7,0.7,13.28041458,0.14
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Uniform,8,0.8,17.73320389,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Uniform,9,0.9,20.96974182,0.09
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Uniform,10,1,31.34012032,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Salt and Pepper,0,0,49.48553085,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Salt and Pepper,1,0.1,37.42282867,0.11
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Salt and Pepper,2,0.2,38.64253998,0.09
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Salt and Pepper,3,0.3,45.91157532,0.09
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Salt and Pepper,4,0.4,61.79067993,0.09
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Salt and Pepper,5,0.5,70.24182129,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Salt and Pepper,6,0.6,82.45559692,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Salt and Pepper,7,0.7,92.22805786,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Salt and Pepper,8,0.8,107.3755875,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Salt and Pepper,9,0.9,101.098877,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Salt and Pepper,10,1,100.8245773,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,High Pass,0,100,11.44578362,0.24
+RIB (N=2),Gabor,VGG16,None,1,42,contours,High Pass,1,63.09573445,11.81404781,0.24
+RIB (N=2),Gabor,VGG16,None,1,42,contours,High Pass,2,39.81071706,12.21892166,0.24
+RIB (N=2),Gabor,VGG16,None,1,42,contours,High Pass,3,25.11886432,12.40689564,0.24
+RIB (N=2),Gabor,VGG16,None,1,42,contours,High Pass,4,15.84893192,12.97998333,0.23
+RIB (N=2),Gabor,VGG16,None,1,42,contours,High Pass,5,10,13.45538712,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours,High Pass,6,6.309573445,14.10901356,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours,High Pass,7,3.981071706,13.12749767,0.2
+RIB (N=2),Gabor,VGG16,None,1,42,contours,High Pass,8,2.511886432,13.38678741,0.19
+RIB (N=2),Gabor,VGG16,None,1,42,contours,High Pass,9,1.584893192,11.98572636,0.21
+RIB (N=2),Gabor,VGG16,None,1,42,contours,High Pass,10,1,10.30062771,0.24
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Low Pass,0,1,8.134734154,0.27
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Low Pass,1,1.584893192,5.238922596,0.32
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Low Pass,2,2.511886432,3.559731722,0.39
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Low Pass,3,3.981071706,2.586297035,0.42
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Low Pass,4,6.309573445,2.179289103,0.3
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Low Pass,5,10,3.936453819,0.08
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Low Pass,6,15.84893192,4.531189442,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Low Pass,7,25.11886432,5.42052269,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Low Pass,8,39.81071706,6.625095844,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Low Pass,9,63.09573445,6.996571541,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Low Pass,10,100,5.687366486,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Contrast,0,1,49.48553085,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Contrast,1,0.630957344,12.84332561,0.24
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Contrast,2,0.398107171,7.320903778,0.26
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Contrast,3,0.251188643,5.426945686,0.32
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Contrast,4,0.158489319,4.490638733,0.36
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Contrast,5,0.1,3.454412937,0.3
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Contrast,6,0.063095734,3.49932313,0.16
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Contrast,7,0.039810717,3.978642464,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Contrast,8,0.025118864,4.502587318,0.07
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Contrast,9,0.015848932,5.120186806,0.03
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Contrast,10,0.01,5.581216812,0.09
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Phase Scrambling,0,0,49.48553085,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Phase Scrambling,1,18,40.76426697,0.24
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Phase Scrambling,2,36,28.24664879,0.23
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Phase Scrambling,3,54,17.15467453,0.3
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Phase Scrambling,4,72,12.80769444,0.31
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Phase Scrambling,5,90,8.318705559,0.37
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Phase Scrambling,6,108,17.71756363,0.3
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Phase Scrambling,7,126,8.025489807,0.17
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Phase Scrambling,8,144,6.803274155,0.12
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Phase Scrambling,9,162,7.171797276,0.11
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Phase Scrambling,10,180,7.484630108,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Darken,0,0,49.48553085,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Darken,1,-0.1,31.4127903,0.2
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Darken,2,-0.2,22.54423332,0.2
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Darken,3,-0.3,16.5293808,0.21
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Darken,4,-0.4,13.18377304,0.23
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Darken,5,-0.5,11.25816154,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Darken,6,-0.6,8.97949028,0.27
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Darken,7,-0.7,6.541400909,0.34
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Darken,8,-0.8,4.103023529,0.38
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Darken,9,-0.9,2.137103796,0.46
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Darken,10,-1,2.7391572,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Brighten,0,0,49.48553085,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Brighten,1,0.1,33.84799194,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Brighten,2,0.2,25.88000679,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Brighten,3,0.3,21.70015335,0.21
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Brighten,4,0.4,16.93118095,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Brighten,5,0.5,13.02030563,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Brighten,6,0.6,9.009374619,0.26
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Brighten,7,0.7,6.008775234,0.3
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Brighten,8,0.8,4.114783764,0.33
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Brighten,9,0.9,2.934193611,0.34
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Brighten,10,1,4.186136246,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Rotation,0,0,49.48553085,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Rotation,1,90,66.97283936,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Rotation,2,180,96.54017639,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Rotation,3,270,71.16668701,0.13
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Invert,0,0,49.48553085,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours,Invert,1,1,8.809556007,0.27
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Uniform,0,0,1877636,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Uniform,1,0.1,1751736.5,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Uniform,2,0.2,1360222.5,0.05
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Uniform,3,0.3,1003712.313,0.05
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Uniform,4,0.4,570695.75,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Uniform,5,0.5,274552.375,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Uniform,6,0.6,106240.2969,0.16
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Uniform,7,0.7,135091.9844,0.18
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Uniform,8,0.8,59619.34375,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Uniform,9,0.9,73273.78125,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Uniform,10,1,79210.53125,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Salt and Pepper,0,0,1877636,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Salt and Pepper,1,0.1,356582.1875,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Salt and Pepper,2,0.2,345531.0313,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Salt and Pepper,3,0.3,530920.5625,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Salt and Pepper,4,0.4,926456.5625,0.06
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Salt and Pepper,5,0.5,1389262.5,0.09
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Salt and Pepper,6,0.6,2781667.75,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Salt and Pepper,7,0.7,3234980.75,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Salt and Pepper,8,0.8,4120887.25,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Salt and Pepper,9,0.9,4238035,0.09
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Salt and Pepper,10,1,5777274,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,contours,High Pass,0,100,543371.0625,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,contours,High Pass,1,63.09573445,458997.9688,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,contours,High Pass,2,39.81071706,436841.4688,0.09
+RIB (N=4),Gabor,VGG16,None,1,42,contours,High Pass,3,25.11886432,488398.2813,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,contours,High Pass,4,15.84893192,607621.625,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,contours,High Pass,5,10,726701.0625,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,contours,High Pass,6,6.309573445,825213.8125,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours,High Pass,7,3.981071706,962582.75,0.09
+RIB (N=4),Gabor,VGG16,None,1,42,contours,High Pass,8,2.511886432,1204125.5,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,contours,High Pass,9,1.584893192,1694230.25,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours,High Pass,10,1,1317786.5,0.06
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Low Pass,0,1,3127.067139,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Low Pass,1,1.584893192,8.751888275,0.23
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Low Pass,2,2.511886432,4.387826443,0.31
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Low Pass,3,3.981071706,2.817292452,0.37
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Low Pass,4,6.309573445,2.343454123,0.29
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Low Pass,5,10,4.260011196,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Low Pass,6,15.84893192,6.304757595,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Low Pass,7,25.11886432,8.362033844,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Low Pass,8,39.81071706,12.92779922,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Low Pass,9,63.09573445,10.29243088,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Low Pass,10,100,5.580439568,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Contrast,0,1,1877636,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Contrast,1,0.630957344,296011.375,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Contrast,2,0.398107171,24939.18945,0.17
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Contrast,3,0.251188643,263.5067749,0.18
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Contrast,4,0.158489319,16.74734306,0.28
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Contrast,5,0.1,8.77069664,0.3
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Contrast,6,0.063095734,4.125257969,0.24
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Contrast,7,0.039810717,3.154218435,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Contrast,8,0.025118864,3.289302349,0.04
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Contrast,9,0.015848932,3.855693102,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Contrast,10,0.01,4.371806145,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Phase Scrambling,0,0,1877636,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Phase Scrambling,1,18,1762000.5,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Phase Scrambling,2,36,1234696.375,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Phase Scrambling,3,54,607349.0625,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Phase Scrambling,4,72,162054.1563,0.13
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Phase Scrambling,5,90,12542.44629,0.21
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Phase Scrambling,6,108,181.1352539,0.23
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Phase Scrambling,7,126,6.204442024,0.26
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Phase Scrambling,8,144,6.612025738,0.2
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Phase Scrambling,9,162,6.894252777,0.13
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Phase Scrambling,10,180,6.736970901,0.16
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Darken,0,0,1877636,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Darken,1,-0.1,1695281.5,0.06
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Darken,2,-0.2,1410125.875,0.06
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Darken,3,-0.3,1011510.313,0.06
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Darken,4,-0.4,707743.75,0.09
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Darken,5,-0.5,577848.25,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Darken,6,-0.6,382480.5313,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Darken,7,-0.7,137486.5938,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Darken,8,-0.8,833.7485962,0.16
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Darken,9,-0.9,6.770205498,0.28
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Darken,10,-1,3.292931557,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Brighten,0,0,1877636,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Brighten,1,0.1,857588.5625,0.06
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Brighten,2,0.2,279638.1563,0.09
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Brighten,3,0.3,64746.84375,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Brighten,4,0.4,7204.04541,0.15
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Brighten,5,0.5,37.94874954,0.17
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Brighten,6,0.6,8.698418617,0.25
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Brighten,7,0.7,6.570166588,0.3
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Brighten,8,0.8,6.093252182,0.32
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Brighten,9,0.9,3.270427942,0.29
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Brighten,10,1,3.259821415,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Rotation,0,0,1877636,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Rotation,1,90,2478645.25,0.13
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Rotation,2,180,1604880.5,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Rotation,3,270,2495618.25,0.09
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Invert,0,0,1877636,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours,Invert,1,1,2714856.25,0.1
+Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,0,0,3.03874135,0.32
+Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,1,0.1,2.907104731,0.35
+Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,2,0.2,2.767687798,0.37
+Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,3,0.3,2.526664734,0.4
+Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,4,0.4,2.487842798,0.38
+Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,5,0.5,2.551189661,0.37
+Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,6,0.6,2.817627907,0.33
+Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,7,0.7,3.012224436,0.29
+Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,8,0.8,3.203778982,0.25
+Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,9,0.9,3.809444189,0.22
+Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,10,1,4.291508675,0.18
+Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,0,0,3.03874135,0.32
+Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,1,0.1,2.476469994,0.31
+Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,2,0.2,3.047385454,0.3
+Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,3,0.3,3.515685797,0.23
+Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,4,0.4,4.184690952,0.17
+Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,5,0.5,4.508546829,0.14
+Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,6,0.6,4.724155426,0.16
+Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,7,0.7,4.975148678,0.12
+Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,8,0.8,4.679481506,0.11
+Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,9,0.9,4.584262848,0.08
+Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,10,1,4.547781467,0.11
+Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,0,100,6.466748238,0.37
+Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,1,63.09573445,6.777976513,0.37
+Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,2,39.81071706,7.143777847,0.35
+Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,3,25.11886432,7.256731033,0.36
+Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,4,15.84893192,6.056829453,0.39
+Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,5,10,4.866438389,0.38
+Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,6,6.309573445,4.010954857,0.4
+Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,7,3.981071706,3.068937302,0.37
+Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,8,2.511886432,2.566342831,0.27
+Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,9,1.584893192,2.379034519,0.29
+Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,10,1,2.203729868,0.28
+Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,0,1,2.923845291,0.37
+Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,1,1.584893192,2.898409128,0.39
+Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,2,2.511886432,2.884542465,0.38
+Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,3,3.981071706,2.404841423,0.44
+Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,4,6.309573445,3.423063278,0.23
+Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,5,10,5.651671886,0.11
+Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,6,15.84893192,6.548662663,0.1
+Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,7,25.11886432,5.829266548,0.1
+Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,8,39.81071706,5.6275177,0.1
+Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,9,63.09573445,5.511323452,0.1
+Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,10,100,6.198947906,0.1
+Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,0,1,3.03874135,0.32
+Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,1,0.630957344,3.040886164,0.35
+Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,2,0.398107171,3.208615065,0.4
+Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,3,0.251188643,3.106481552,0.37
+Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,4,0.158489319,2.656638145,0.33
+Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,5,0.1,2.418250561,0.26
+Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,6,0.063095734,2.618375778,0.17
+Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,7,0.039810717,3.045831203,0.1
+Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,8,0.025118864,3.713048458,0.1
+Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,9,0.015848932,4.297794819,0.05
+Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,10,0.01,4.72600174,0.09
+Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,0,0,3.03874135,0.32
+Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,1,18,2.796867132,0.36
+Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,2,36,2.571289063,0.39
+Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,3,54,2.496089697,0.38
+Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,4,72,2.230470419,0.4
+Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,5,90,2.232882977,0.37
+Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,6,108,2.430073261,0.31
+Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,7,126,2.954151869,0.25
+Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,8,144,3.780082703,0.17
+Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,9,162,3.969108582,0.13
+Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,10,180,4.102882862,0.15
+Recurrent,Gabor,VGG16,None,1,42,contours,Darken,0,0,3.03874135,0.32
+Recurrent,Gabor,VGG16,None,1,42,contours,Darken,1,-0.1,3.136133671,0.33
+Recurrent,Gabor,VGG16,None,1,42,contours,Darken,2,-0.2,3.400299072,0.31
+Recurrent,Gabor,VGG16,None,1,42,contours,Darken,3,-0.3,4.115931988,0.33
+Recurrent,Gabor,VGG16,None,1,42,contours,Darken,4,-0.4,5.157580376,0.31
+Recurrent,Gabor,VGG16,None,1,42,contours,Darken,5,-0.5,6.831310272,0.35
+Recurrent,Gabor,VGG16,None,1,42,contours,Darken,6,-0.6,7.340074539,0.35
+Recurrent,Gabor,VGG16,None,1,42,contours,Darken,7,-0.7,6.758088589,0.33
+Recurrent,Gabor,VGG16,None,1,42,contours,Darken,8,-0.8,3.509657621,0.39
+Recurrent,Gabor,VGG16,None,1,42,contours,Darken,9,-0.9,1.81149292,0.37
+Recurrent,Gabor,VGG16,None,1,42,contours,Darken,10,-1,3.127370358,0.1
+Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,0,0,3.03874135,0.32
+Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,1,0.1,2.972504377,0.33
+Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,2,0.2,2.914227486,0.35
+Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,3,0.3,2.841400385,0.34
+Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,4,0.4,2.753907442,0.34
+Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,5,0.5,2.601400375,0.36
+Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,6,0.6,2.371899128,0.38
+Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,7,0.7,2.147814512,0.38
+Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,8,0.8,2.050081253,0.34
+Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,9,0.9,2.334198475,0.22
+Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,10,1,5.059126377,0.1
+Recurrent,Gabor,VGG16,None,1,42,contours,Rotation,0,0,3.03874135,0.32
+Recurrent,Gabor,VGG16,None,1,42,contours,Rotation,1,90,5.5736022,0.09
+Recurrent,Gabor,VGG16,None,1,42,contours,Rotation,2,180,5.195760727,0.16
+Recurrent,Gabor,VGG16,None,1,42,contours,Rotation,3,270,5.618680954,0.12
+Recurrent,Gabor,VGG16,None,1,42,contours,Invert,0,0,3.03874135,0.32
+Recurrent,Gabor,VGG16,None,1,42,contours,Invert,1,1,2.770300388,0.34
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,0,0,3200235.75,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,1,0.1,27810.81055,0.19
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,2,0.2,683.2949829,0.22
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,3,0.3,51.03085327,0.22
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,4,0.4,7.3700881,0.26
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,5,0.5,4.248634815,0.27
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,6,0.6,3.658781767,0.18
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,7,0.7,3.331726313,0.19
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,8,0.8,3.445328951,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,9,0.9,3.637157917,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Uniform,10,1,3.651425362,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,0,0,3200235.75,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,1,0.1,14.87018394,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,2,0.2,4.746294975,0.11
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,3,0.3,3.999243259,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,4,0.4,4.219713688,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,5,0.5,7.487263203,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,6,0.6,5.3898983,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,7,0.7,22.25136757,0.09
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,8,0.8,8.469018936,0.09
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,9,0.9,17.75012398,0.11
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Salt and Pepper,10,1,20.25675201,0.11
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,0,100,15.7326231,0.27
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,1,63.09573445,18.19508362,0.31
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,2,39.81071706,24.88539124,0.3
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,3,25.11886432,37.09932709,0.28
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,4,15.84893192,39.85797501,0.27
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,5,10,33.73335648,0.27
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,6,6.309573445,22.17271042,0.26
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,7,3.981071706,12.24324989,0.27
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,8,2.511886432,11.59722614,0.28
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,9,1.584893192,14.36175537,0.27
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,High Pass,10,1,12.83065319,0.32
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,0,1,49319.76172,0.22
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,1,1.584893192,1847.532715,0.28
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,2,2.511886432,15.69002724,0.35
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,3,3.981071706,6.770240307,0.39
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,4,6.309573445,3.211687088,0.32
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,5,10,3.267537594,0.09
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,6,15.84893192,4.162901402,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,7,25.11886432,4.20498848,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,8,39.81071706,4.387700081,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,9,63.09573445,4.892553806,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Low Pass,10,100,5.201889515,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,0,1,3200235.75,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,1,0.630957344,30.36691475,0.25
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,2,0.398107171,7.479093552,0.33
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,3,0.251188643,4.409595966,0.36
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,4,0.158489319,2.926038265,0.38
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,5,0.1,2.368221521,0.33
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,6,0.063095734,2.308793783,0.25
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,7,0.039810717,2.57525444,0.17
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,8,0.025118864,2.866675615,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,9,0.015848932,3.246538401,0.06
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Contrast,10,0.01,3.68606472,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,0,0,3200235.75,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,1,18,949007.1875,0.15
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,2,36,195124.4531,0.19
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,3,54,15780.50977,0.27
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,4,72,4675.713867,0.3
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,5,90,11.04466915,0.29
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,6,108,3.695985794,0.32
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,7,126,3.29257679,0.23
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,8,144,3.996570826,0.18
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,9,162,4.380661488,0.11
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Phase Scrambling,10,180,4.500814915,0.14
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Darken,0,0,3200235.75,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Darken,1,-0.1,36260.19531,0.21
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Darken,2,-0.2,1849.012817,0.23
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Darken,3,-0.3,182.121048,0.22
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Darken,4,-0.4,29.40758324,0.23
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Darken,5,-0.5,13.76297283,0.27
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Darken,6,-0.6,8.31979084,0.33
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Darken,7,-0.7,4.832736492,0.4
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Darken,8,-0.8,2.718939304,0.4
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Darken,9,-0.9,2.060703278,0.34
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Darken,10,-1,3.676917791,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,0,0,3200235.75,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,1,0.1,889787.375,0.15
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,2,0.2,181261.9375,0.18
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,3,0.3,22341.68164,0.25
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,4,0.4,5310.755859,0.28
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,5,0.5,2826.176514,0.29
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,6,0.6,602.4229126,0.33
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,7,0.7,4.672135353,0.35
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,8,0.8,3.298040867,0.36
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,9,0.9,2.530480623,0.35
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Brighten,10,1,3.552881479,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Rotation,0,0,3200235.75,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Rotation,1,90,3082672.75,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Rotation,2,180,2981387.75,0.18
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Rotation,3,270,3536940.75,0.06
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Invert,0,0,3200235.75,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,contours,Invert,1,1,2.381993294,0.2

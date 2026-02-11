@@ -1,0 +1,31 @@
+Model,Convolution,Base,Weights,Trial,Seed,Set,Type,Inverted,Loss,Accuracy
+Baseline,Gabor,VGG16,None,1,42,line_drawings,line_drawings,False,1136.182007,0.4
+Baseline,Gabor,VGG16,None,1,42,line_drawings_inverted,line_drawings,True,7.05343008,0.4
+Baseline,Gabor,VGG16,None,1,42,silhouettes,silhouettes,False,24.39552689,0.3
+Baseline,Gabor,VGG16,None,1,42,silhouettes_inverted,silhouettes,True,23.63737488,0.29
+Baseline,Gabor,VGG16,None,1,42,contours,contours,False,8.479621887,0.21
+Baseline,Gabor,VGG16,None,1,42,contours_inverted,contours,True,6.334518909,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings,line_drawings,False,33.46886444,0.31
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,line_drawings,True,8.031043053,0.43
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,silhouettes,False,24.19320869,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes_inverted,silhouettes,True,14.48681736,0.33
+RIB (N=2),Gabor,VGG16,None,1,42,contours,contours,False,49.54453659,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,contours_inverted,contours,True,8.815849304,0.27
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings,line_drawings,False,1386545.625,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,line_drawings,True,2598153.25,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,silhouettes,False,10219.61816,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes_inverted,silhouettes,True,98372.25,0.16
+RIB (N=4),Gabor,VGG16,None,1,42,contours,contours,False,1879660,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,contours_inverted,contours,True,2718032.25,0.1
+Recurrent,Gabor,VGG16,None,1,42,line_drawings,line_drawings,False,1.946963191,0.56
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,line_drawings,True,2.029896021,0.48
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,silhouettes,False,2.872547626,0.39
+Recurrent,Gabor,VGG16,None,1,42,silhouettes_inverted,silhouettes,True,2.432196617,0.43
+Recurrent,Gabor,VGG16,None,1,42,contours,contours,False,3.03874135,0.32
+Recurrent,Gabor,VGG16,None,1,42,contours_inverted,contours,True,2.770300388,0.34
+RIB Recurrent ,Gabor,VGG16,None,1,42,line_drawings,line_drawings,False,4423483,0.15
+RIB Recurrent ,Gabor,VGG16,None,1,42,line_drawings_inverted,line_drawings,True,1079.011353,0.2
+RIB Recurrent ,Gabor,VGG16,None,1,42,silhouettes,silhouettes,False,1704024.75,0.18
+RIB Recurrent ,Gabor,VGG16,None,1,42,silhouettes_inverted,silhouettes,True,148197.1875,0.22
+RIB Recurrent ,Gabor,VGG16,None,1,42,contours,contours,False,3226690,0.13
+RIB Recurrent ,Gabor,VGG16,None,1,42,contours_inverted,contours,True,2.382358789,0.2

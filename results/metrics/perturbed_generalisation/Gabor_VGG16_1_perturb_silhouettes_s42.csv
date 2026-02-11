@@ -1,0 +1,471 @@
+Model,Convolution,Base,Weights,Trial,Seed,Set,Noise,LI,Level,Loss,Accuracy
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Uniform,0,0,24.3975544,0.3
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Uniform,1,0.1,19.49160767,0.32
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Uniform,2,0.2,17.64442825,0.35
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Uniform,3,0.3,17.07024384,0.35
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Uniform,4,0.4,14.41251469,0.38
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Uniform,5,0.5,11.25841713,0.35
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Uniform,6,0.6,10.16859341,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Uniform,7,0.7,7.31203413,0.41
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Uniform,8,0.8,6.392572403,0.42
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Uniform,9,0.9,5.483504772,0.36
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Uniform,10,1,5.39770031,0.39
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,0,0,24.3975544,0.3
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,1,0.1,16.29940605,0.34
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,2,0.2,9.694838524,0.36
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,3,0.3,6.026381016,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,4,0.4,6.018028736,0.36
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,5,0.5,5.566855431,0.26
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,6,0.6,6.542201996,0.17
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,7,0.7,8.143279076,0.14
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,8,0.8,8.831694603,0.13
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,9,0.9,9.778665543,0.12
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,10,1,56.41221619,0.09
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,High Pass,0,100,14.93155479,0.31
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,High Pass,1,63.09573445,15.51021957,0.32
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,High Pass,2,39.81071706,20.2296257,0.26
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,High Pass,3,25.11886432,26.44178772,0.23
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,High Pass,4,15.84893192,28.15630913,0.24
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,High Pass,5,10,20.35873795,0.24
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,High Pass,6,6.309573445,1005.3172,0.2
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,High Pass,7,3.981071706,10.22431374,0.24
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,High Pass,8,2.511886432,6.165273666,0.23
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,High Pass,9,1.584893192,4.602231979,0.22
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,High Pass,10,1,3.62402916,0.12
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Low Pass,0,1,19.37911797,0.3
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Low Pass,1,1.584893192,15.28108025,0.3
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Low Pass,2,2.511886432,9.023309708,0.33
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Low Pass,3,3.981071706,1111.338623,0.39
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Low Pass,4,6.309573445,863.0853271,0.27
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Low Pass,5,10,3.482167244,0.22
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Low Pass,6,15.84893192,3.85692668,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Low Pass,7,25.11886432,4.138122559,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Low Pass,8,39.81071706,4.382589817,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Low Pass,9,63.09573445,6.131487846,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Low Pass,10,100,15.22535324,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Contrast,0,1,24.3975544,0.3
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Contrast,1,0.630957344,10.07311058,0.31
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Contrast,2,0.398107171,5.908024311,0.39
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Contrast,3,0.251188643,5.081789494,0.42
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Contrast,4,0.158489319,4.907905102,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Contrast,5,0.1,4.009421825,0.37
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Contrast,6,0.063095734,3.142170906,0.33
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Contrast,7,0.039810717,3.077090502,0.23
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Contrast,8,0.025118864,3.365406752,0.13
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Contrast,9,0.015848932,3.837577581,0.11
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Contrast,10,0.01,4.433712482,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,0,0,24.39895248,0.3
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,1,18,50.67028427,0.33
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,2,36,24.75774002,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,3,54,14.66191292,0.36
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,4,72,7.037313461,0.43
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,5,90,3.276051044,0.43
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,6,108,3.36943388,0.35
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,7,126,3.562232018,0.21
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,8,144,4.399097443,0.2
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,9,162,4.902634621,0.18
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,10,180,4.38275528,0.18
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Darken,0,0,24.39782143,0.3
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Darken,1,-0.1,20.64240265,0.28
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Darken,2,-0.2,17.77315712,0.29
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Darken,3,-0.3,15.42521381,0.29
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Darken,4,-0.4,13.20678425,0.31
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Darken,5,-0.5,10.25481224,0.35
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Darken,6,-0.6,8.144224167,0.36
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Darken,7,-0.7,5.814201832,0.39
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Darken,8,-0.8,4.164877415,0.41
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Darken,9,-0.9,2.850250244,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Darken,10,-1,6.704518318,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Brighten,0,0,24.39782143,0.3
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Brighten,1,0.1,18.5071125,0.29
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Brighten,2,0.2,13.54039097,0.3
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Brighten,3,0.3,9.80314064,0.31
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Brighten,4,0.4,6.978435516,0.34
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Brighten,5,0.5,5.059495926,0.38
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Brighten,6,0.6,3.841005564,0.41
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Brighten,7,0.7,3.13572073,0.41
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Brighten,8,0.8,2.758272171,0.44
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Brighten,9,0.9,2.379585505,0.39
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Brighten,10,1,4.15656662,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Rotation,0,0,24.39782143,0.3
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Rotation,1,90,30.22039032,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Rotation,2,180,218.5451202,0.12
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Rotation,3,270,580.6529541,0.11
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Invert,0,0,24.39782143,0.3
+Gabor_VGG16,Gabor,VGG16,None,1,42,silhouettes,Invert,1,1,23.64299583,0.29
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Uniform,0,0,24.17987823,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Uniform,1,0.1,20.66169167,0.32
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Uniform,2,0.2,17.01605797,0.35
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Uniform,3,0.3,11.60478592,0.35
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Uniform,4,0.4,9.91446209,0.42
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Uniform,5,0.5,9.807268143,0.36
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Uniform,6,0.6,8.440813065,0.33
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Uniform,7,0.7,9.856426239,0.2
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Uniform,8,0.8,11.40008163,0.19
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Uniform,9,0.9,12.48985004,0.11
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Uniform,10,1,17.67067909,0.12
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,0,0,24.17987823,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,1,0.1,17.2986393,0.18
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,2,0.2,19.31917953,0.19
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,3,0.3,23.67831802,0.12
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,4,0.4,30.01055145,0.12
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,5,0.5,38.92829895,0.11
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,6,0.6,54.10552216,0.09
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,7,0.7,69.54964447,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,8,0.8,92.2868576,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,9,0.9,95.43255615,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,10,1,100.8245773,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,High Pass,0,100,16.20335197,0.26
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,High Pass,1,63.09573445,17.67961502,0.26
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,High Pass,2,39.81071706,28.58913612,0.26
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,High Pass,3,25.11886432,36.81167221,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,High Pass,4,15.84893192,27.01528168,0.24
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,High Pass,5,10,19.07680702,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,High Pass,6,6.309573445,13.92023659,0.23
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,High Pass,7,3.981071706,10.9075346,0.24
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,High Pass,8,2.511886432,6.008629799,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,High Pass,9,1.584893192,3.787276268,0.33
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,High Pass,10,1,3.148132324,0.35
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Low Pass,0,1,16.13815308,0.32
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Low Pass,1,1.584893192,13.47439003,0.36
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Low Pass,2,2.511886432,9.529475212,0.39
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Low Pass,3,3.981071706,4.460458755,0.4
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Low Pass,4,6.309573445,2.841359854,0.37
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Low Pass,5,10,4.135807037,0.18
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Low Pass,6,15.84893192,5.404875278,0.12
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Low Pass,7,25.11886432,6.114535332,0.11
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Low Pass,8,39.81071706,6.344206333,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Low Pass,9,63.09573445,5.76523447,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Low Pass,10,100,5.948226452,0.12
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Contrast,0,1,24.17987823,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Contrast,1,0.630957344,8.993760109,0.29
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Contrast,2,0.398107171,5.787030697,0.33
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Contrast,3,0.251188643,4.384921551,0.38
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Contrast,4,0.158489319,3.962866783,0.36
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Contrast,5,0.1,3.462906599,0.33
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Contrast,6,0.063095734,3.287768364,0.23
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Contrast,7,0.039810717,3.550736904,0.18
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Contrast,8,0.025118864,4.172239304,0.08
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Contrast,9,0.015848932,4.620847702,0.07
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Contrast,10,0.01,5.021025181,0.07
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,0,0,24.17907524,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,1,18,19.65228462,0.31
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,2,36,10.44001102,0.4
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,3,54,5.246651649,0.39
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,4,72,4.208570004,0.37
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,5,90,2.963421106,0.45
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,6,108,3.283361435,0.35
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,7,126,3.677330732,0.2
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,8,144,4.364152908,0.21
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,9,162,5.085539341,0.16
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,10,180,4.462858677,0.15
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Darken,0,0,24.17435074,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Darken,1,-0.1,20.65770912,0.26
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Darken,2,-0.2,19.28034019,0.24
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Darken,3,-0.3,17.20613289,0.24
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Darken,4,-0.4,14.75942421,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Darken,5,-0.5,12.52300739,0.26
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Darken,6,-0.6,9.924297333,0.28
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Darken,7,-0.7,6.79965353,0.29
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Darken,8,-0.8,4.086295605,0.39
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Darken,9,-0.9,1.974930525,0.46
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Darken,10,-1,2.7391572,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Brighten,0,0,24.17435074,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Brighten,1,0.1,16.02875519,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Brighten,2,0.2,11.01246548,0.28
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Brighten,3,0.3,8.178756714,0.27
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Brighten,4,0.4,6.540913582,0.27
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Brighten,5,0.5,5.321565151,0.26
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Brighten,6,0.6,4.076975822,0.33
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Brighten,7,0.7,3.261637211,0.34
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Brighten,8,0.8,2.787539959,0.36
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Brighten,9,0.9,2.561021328,0.31
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Brighten,10,1,4.186136246,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Rotation,0,0,24.17435074,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Rotation,1,90,27.97525215,0.09
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Rotation,2,180,52.77078247,0.11
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Rotation,3,270,34.63892746,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Invert,0,0,24.17435074,0.25
+RIB (N=2),Gabor,VGG16,None,1,42,silhouettes,Invert,1,1,14.47830677,0.33
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Uniform,0,0,10190.05371,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Uniform,1,0.1,15684.13379,0.18
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Uniform,2,0.2,32344.53711,0.15
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Uniform,3,0.3,45113.21094,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Uniform,4,0.4,118280.5078,0.17
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Uniform,5,0.5,104289.1328,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Uniform,6,0.6,207523.6563,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Uniform,7,0.7,271682,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Uniform,8,0.8,570021.8125,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Uniform,9,0.9,569649.1875,0.09
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Uniform,10,1,886750.375,0.13
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,0,0,10190.05371,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,1,0.1,2309295.25,0.06
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,2,0.2,1817290.125,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,3,0.3,2558389.5,0.09
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,4,0.4,2750954.5,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,5,0.5,4152767.25,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,6,0.6,4335917,0.13
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,7,0.7,6199805,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,8,0.8,6562009,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,9,0.9,5353270.5,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,10,1,5777274,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,High Pass,0,100,800.3677979,0.15
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,High Pass,1,63.09573445,788.927002,0.15
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,High Pass,2,39.81071706,1779.536865,0.15
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,High Pass,3,25.11886432,2656.366943,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,High Pass,4,15.84893192,2506.423584,0.16
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,High Pass,5,10,8196.751953,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,High Pass,6,6.309573445,52406.63672,0.15
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,High Pass,7,3.981071706,38591.57031,0.17
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,High Pass,8,2.511886432,8809.282227,0.21
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,High Pass,9,1.584893192,398.06604,0.21
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,High Pass,10,1,18.48160362,0.19
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Low Pass,0,1,317.8526306,0.23
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Low Pass,1,1.584893192,49.07061005,0.26
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Low Pass,2,2.511886432,11.29439926,0.27
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Low Pass,3,3.981071706,4.432374477,0.29
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Low Pass,4,6.309573445,2.934589624,0.36
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Low Pass,5,10,3.179728985,0.18
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Low Pass,6,15.84893192,4.730246067,0.13
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Low Pass,7,25.11886432,7.571011543,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Low Pass,8,39.81071706,9.378568649,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Low Pass,9,63.09573445,5.925377369,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Low Pass,10,100,5.153406143,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Contrast,0,1,10190.05371,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Contrast,1,0.630957344,114.4047546,0.2
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Contrast,2,0.398107171,12.16903687,0.33
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Contrast,3,0.251188643,7.885402679,0.41
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Contrast,4,0.158489319,5.297476292,0.42
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Contrast,5,0.1,3.389717102,0.4
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Contrast,6,0.063095734,2.694081783,0.37
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Contrast,7,0.039810717,2.799034357,0.17
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Contrast,8,0.025118864,3.2722857,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Contrast,9,0.015848932,3.608839989,0.06
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Contrast,10,0.01,4.12546587,0.09
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,0,0,10188.09766,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,1,18,9044.806641,0.19
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,2,36,3656.241211,0.25
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,3,54,1324.530273,0.29
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,4,72,257.1653442,0.34
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,5,90,38.51760864,0.32
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,6,108,3.930719852,0.33
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,7,126,3.301138401,0.22
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,8,144,4.380664825,0.21
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,9,162,4.712004185,0.2
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,10,180,4.339535713,0.19
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Darken,0,0,10201.72949,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Darken,1,-0.1,9174.855469,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Darken,2,-0.2,5918.026367,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Darken,3,-0.3,3194.361816,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Darken,4,-0.4,1052.771973,0.15
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Darken,5,-0.5,153.9435883,0.16
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Darken,6,-0.6,37.0786438,0.18
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Darken,7,-0.7,20.02530479,0.26
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Darken,8,-0.8,10.9664917,0.32
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Darken,9,-0.9,2.212714911,0.39
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Darken,10,-1,3.292931557,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Brighten,0,0,10201.72949,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Brighten,1,0.1,3511.920654,0.15
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Brighten,2,0.2,620.7166138,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Brighten,3,0.3,152.0143433,0.17
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Brighten,4,0.4,59.96567535,0.21
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Brighten,5,0.5,9.118242264,0.3
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Brighten,6,0.6,4.558738232,0.35
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Brighten,7,0.7,3.885273695,0.36
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Brighten,8,0.8,3.298046827,0.37
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Brighten,9,0.9,2.598668814,0.36
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Brighten,10,1,3.259821415,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Rotation,0,0,10201.72949,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Rotation,1,90,9976.750977,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Rotation,2,180,2808.353516,0.13
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Rotation,3,270,36209.38672,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Invert,0,0,10201.72949,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,silhouettes,Invert,1,1,98269.45313,0.16
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,0,0,2.872378826,0.39
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,1,0.1,2.805593014,0.4
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,2,0.2,2.642769575,0.42
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,3,0.3,2.584728479,0.45
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,4,0.4,2.740882158,0.45
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,5,0.5,2.457125187,0.45
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,6,0.6,2.786994696,0.48
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,7,0.7,2.843557835,0.45
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,8,0.8,2.685921669,0.42
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,9,0.9,2.930784941,0.36
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,10,1,2.89545536,0.35
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,0,0,2.872378826,0.39
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,1,0.1,2.508329391,0.45
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,2,0.2,2.560212612,0.45
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,3,0.3,2.833278179,0.41
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,4,0.4,2.736264229,0.36
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,5,0.5,3.065238714,0.25
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,6,0.6,3.540604591,0.24
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,7,0.7,4.333773613,0.18
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,8,0.8,4.447450161,0.15
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,9,0.9,4.638887405,0.08
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,10,1,4.547781467,0.11
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,0,100,3.520172834,0.39
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,1,63.09573445,3.538760185,0.38
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,2,39.81071706,3.963913202,0.38
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,3,25.11886432,4.551460743,0.39
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,4,15.84893192,5551.866211,0.4
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,5,10,3.661120415,0.47
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,6,6.309573445,3.621717453,0.46
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,7,3.981071706,3.287055016,0.4
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,8,2.511886432,2.983305454,0.4
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,9,1.584893192,2.543959141,0.4
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,10,1,2.20210433,0.36
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,0,1,2.803081274,0.41
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,1,1.584893192,2.819116592,0.41
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,2,2.511886432,3.048438311,0.46
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,3,3.981071706,2.816633224,0.45
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,4,6.309573445,3.329436541,0.4
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,5,10,10.40344524,0.18
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,6,15.84893192,11.47255707,0.16
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,7,25.11886432,7.027863026,0.11
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,8,39.81071706,5.743850708,0.11
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,9,63.09573445,6.116109848,0.12
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,10,100,6.40088129,0.09
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,0,1,2.872378826,0.39
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,1,0.630957344,3.188439369,0.42
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,2,0.398107171,3.86020422,0.43
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,3,0.251188643,4.202030182,0.4
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,4,0.158489319,3.771224976,0.43
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,5,0.1,2.882898569,0.42
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,6,0.063095734,2.350634813,0.34
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,7,0.039810717,2.694419622,0.11
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,8,0.025118864,3.286936283,0.1
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,9,0.015848932,3.962891579,0.09
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,10,0.01,4.486987591,0.1
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,0,0,2.87263608,0.39
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,1,18,2.477541924,0.42
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,2,36,2.007377863,0.47
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,3,54,1.937287807,0.51
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,4,72,1.872990251,0.5
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,5,90,2.176056385,0.47
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,6,108,2.503892422,0.3
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,7,126,2.75486517,0.26
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,8,144,3.721466064,0.18
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,9,162,3.836148024,0.19
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,10,180,3.911347866,0.12
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,0,0,2.872413874,0.39
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,1,-0.1,2.898021221,0.39
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,2,-0.2,3.068963528,0.4
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,3,-0.3,3.481200457,0.39
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,4,-0.4,4.015816212,0.39
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,5,-0.5,5.615532398,0.4
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,6,-0.6,6.091908455,0.41
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,7,-0.7,5.591558456,0.38
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,8,-0.8,4.095761776,0.36
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,9,-0.9,1.931423783,0.45
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,10,-1,3.127370358,0.1
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,0,0,2.872413874,0.39
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,1,0.1,2.949269295,0.42
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,2,0.2,3.022550344,0.43
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,3,0.3,3.114445686,0.43
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,4,0.4,3.206423283,0.42
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,5,0.5,3.155233383,0.43
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,6,0.6,3.078939199,0.43
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,7,0.7,3.032053471,0.4
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,8,0.8,2.554371119,0.41
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,9,0.9,2.213713408,0.34
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,10,1,5.059126377,0.1
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Rotation,0,0,2.872413874,0.39
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Rotation,1,90,6.244103432,0.11
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Rotation,2,180,6.379104137,0.15
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Rotation,3,270,6.188060284,0.08
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Invert,0,0,2.872413874,0.39
+Recurrent,Gabor,VGG16,None,1,42,silhouettes,Invert,1,1,2.432342052,0.43
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,0,0,1690093.625,0.18
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,1,0.1,13769.32422,0.3
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,2,0.2,311.4595032,0.32
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,3,0.3,43.50343323,0.3
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,4,0.4,6.024133682,0.27
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,5,0.5,4.047356129,0.23
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,6,0.6,14.11071491,0.14
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,7,0.7,3.52084136,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,8,0.8,3.765101671,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,9,0.9,3.553407907,0.11
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Uniform,10,1,3.586188316,0.09
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,0,0,1690093.625,0.18
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,1,0.1,13.64717293,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,2,0.2,4.450088501,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,3,0.3,3.94173789,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,4,0.4,4.285103321,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,5,0.5,6.806637764,0.09
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,6,0.6,5.53050375,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,7,0.7,22.45403481,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,8,0.8,8.850091934,0.09
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,9,0.9,18.16239929,0.11
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Salt and Pepper,10,1,20.25675201,0.11
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,0,100,71140.90625,0.28
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,1,63.09573445,78514.15625,0.26
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,2,39.81071706,39864.12109,0.29
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,3,25.11886432,10290.80859,0.31
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,4,15.84893192,3590.910645,0.34
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,5,10,677.640625,0.33
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,6,6.309573445,587.1987305,0.29
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,7,3.981071706,31.72215843,0.28
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,8,2.511886432,4.567387581,0.32
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,9,1.584893192,3.565760612,0.37
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,High Pass,10,1,2.638537407,0.37
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,0,1,1349569.625,0.17
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,1,1.584893192,787249.9375,0.18
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,2,2.511886432,211663.6406,0.21
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,3,3.981071706,41096.6875,0.28
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,4,6.309573445,4.656369209,0.41
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,5,10,5.863618374,0.25
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,6,15.84893192,7.15975666,0.16
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,7,25.11886432,4.983845711,0.17
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,8,39.81071706,5.052274704,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,9,63.09573445,5.014942169,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Low Pass,10,100,4.96409893,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,0,1,1690093.625,0.18
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,1,0.630957344,17.39276695,0.29
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,2,0.398107171,6.370187759,0.39
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,3,0.251188643,4.382187366,0.46
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,4,0.158489319,3.172857761,0.49
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,5,0.1,2.461917162,0.41
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,6,0.063095734,2.161892176,0.34
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,7,0.039810717,2.328113794,0.26
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,8,0.025118864,2.73785305,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,9,0.015848932,3.183936834,0.07
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Contrast,10,0.01,3.61361599,0.09
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,0,0,1690105.875,0.18
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,1,18,584483.75,0.25
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,2,36,77785.34375,0.25
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,3,54,4340.584473,0.37
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,4,72,3401.020264,0.39
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,5,90,12.94856834,0.37
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,6,108,4.231639862,0.28
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,7,126,3.86641407,0.19
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,8,144,5.283093452,0.21
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,9,162,5.846878529,0.15
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Phase Scrambling,10,180,5.848509312,0.2
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,0,0,1690322.5,0.18
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,1,-0.1,37951.27344,0.27
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,2,-0.2,2030.677856,0.25
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,3,-0.3,148.7625732,0.3
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,4,-0.4,27.22993088,0.28
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,5,-0.5,13.53992462,0.29
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,6,-0.6,7.713191509,0.32
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,7,-0.7,4.574073315,0.35
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,8,-0.8,2.701323032,0.36
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,9,-0.9,2.092311621,0.38
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Darken,10,-1,3.676917791,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,0,0,1690322.5,0.18
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,1,0.1,314362.75,0.2
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,2,0.2,24797.47266,0.27
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,3,0.3,1600.441528,0.29
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,4,0.4,47.52318192,0.3
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,5,0.5,12.09719372,0.35
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,6,0.6,7.992968082,0.33
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,7,0.7,5.437249184,0.34
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,8,0.8,3.797346592,0.36
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,9,0.9,2.911515713,0.33
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Brighten,10,1,3.552881479,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Rotation,0,0,1690322.5,0.18
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Rotation,1,90,1980812.5,0.07
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Rotation,2,180,1565575.5,0.19
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Rotation,3,270,2891448,0.07
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Invert,0,0,1690322.5,0.18
+RIB Recurrent,Gabor,VGG16,None,1,42,silhouettes,Invert,1,1,146050.5938,0.22

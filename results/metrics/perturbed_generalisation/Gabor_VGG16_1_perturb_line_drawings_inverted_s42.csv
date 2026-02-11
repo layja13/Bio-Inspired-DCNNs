@@ -1,0 +1,471 @@
+Model,Convolution,Base,Weights,Trial,Seed,Set,Noise,LI,Level,Loss,Accuracy
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,0,0,7.054541111,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,1,0.1,5.57269907,0.46
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,2,0.2,4.779849052,0.44
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,3,0.3,4.26348877,0.42
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,4,0.4,3.026711464,0.46
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,5,0.5,3.167980909,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,6,0.6,4.194498539,0.3
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,7,0.7,3.929227352,0.25
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,8,0.8,4.287653923,0.25
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,9,0.9,4.619265556,0.2
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,10,1,5.327032089,0.16
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,0,0,7.054541111,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,1,0.1,15.65189171,0.34
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,2,0.2,6.479036331,0.22
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,3,0.3,6.564670563,0.19
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,4,0.4,7.4197402,0.16
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,5,0.5,8.011187553,0.13
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,6,0.6,8.340548515,0.13
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,7,0.7,9.360012054,0.11
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,8,0.8,9.209584236,0.09
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,9,0.9,10.40589809,0.07
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,10,1,56.41221619,0.09
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,0,100,5.842344284,0.38
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,1,63.09573445,5.064094067,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,2,39.81071706,4.682770252,0.42
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,3,25.11886432,4.564986706,0.45
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,4,15.84893192,4.285763741,0.43
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,5,10,76.14063263,0.38
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,6,6.309573445,915.5943604,0.26
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,7,3.981071706,60.92144012,0.25
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,8,2.511886432,5.255068302,0.26
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,9,1.584893192,3.968452215,0.27
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,10,1,3.277919531,0.22
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,0,1,4.782497883,0.45
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,1,1.584893192,3.664669752,0.47
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,2,2.511886432,2.936215162,0.53
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,3,3.981071706,2.218836784,0.55
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,4,6.309573445,2.390089989,0.32
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,5,10,3.955281973,0.12
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,6,15.84893192,3.440438032,0.07
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,7,25.11886432,3.445169926,0.14
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,8,39.81071706,4.347466946,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,9,63.09573445,5.010573387,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,10,100,7.295854568,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,0,1,7.054541111,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,1,0.630957344,3.530358076,0.44
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,2,0.398107171,2.843685389,0.44
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,3,0.251188643,2.787333012,0.38
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,4,0.158489319,2.943308115,0.31
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,5,0.1,2.966608524,0.26
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,6,0.063095734,3.25328064,0.19
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,7,0.039810717,3.45780611,0.13
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,8,0.025118864,3.637847662,0.12
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,9,0.015848932,3.963807583,0.13
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,10,0.01,4.399430752,0.12
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,0,0,7.053899765,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,1,18,6.003333092,0.44
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,2,36,4.975189686,0.44
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,3,54,7.980865955,0.5
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,4,72,3.240810633,0.46
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,5,90,3.721344709,0.36
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,6,108,4.627180099,0.23
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,7,126,5.316010952,0.18
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,8,144,5.747013092,0.16
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,9,162,5.959400177,0.16
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,10,180,6.376199245,0.14
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,0,0,7.054460526,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,1,-0.1,5.125555515,0.42
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,2,-0.2,3.864733934,0.45
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,3,-0.3,3.130114079,0.46
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,4,-0.4,2.627397537,0.49
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,5,-0.5,2.316921473,0.47
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,6,-0.6,2.163538933,0.44
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,7,-0.7,2.173850298,0.39
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,8,-0.8,2.334066391,0.35
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,9,-0.9,2.745695114,0.22
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,10,-1,6.704518318,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,0,0,7.054460526,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,1,0.1,6.413351536,0.41
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,2,0.2,6.014491081,0.39
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,3,0.3,5.725880623,0.43
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,4,0.4,5.1950984,0.41
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,5,0.5,4.837486744,0.42
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,6,0.6,3.033404589,0.43
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,7,0.7,2.29125762,0.44
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,8,0.8,2.020580769,0.42
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,9,0.9,2.165803432,0.38
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,10,1,4.15656662,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,0,0,7.054460526,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,1,90,14.87071609,0.08
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,2,180,11.6987648,0.19
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,3,270,12.51266384,0.1
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Invert,0,0,7.054460526,0.4
+Gabor_VGG16,Gabor,VGG16,None,1,42,line_drawings_inverted,Invert,1,1,1137.677856,0.4
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,0,0,8.023940086,0.43
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,1,0.1,6.660932541,0.45
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,2,0.2,4.925971508,0.44
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,3,0.3,3.565676928,0.42
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,4,0.4,5.12664175,0.26
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,5,0.5,6.766263008,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,6,0.6,8.908531189,0.18
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,7,0.7,13.61083508,0.16
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,8,0.8,17.83591843,0.13
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,9,0.9,22.94185829,0.11
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,10,1,33.80782318,0.11
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,0,0,8.023940086,0.43
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,1,0.1,22.7207489,0.14
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,2,0.2,30.52035713,0.12
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,3,0.3,37.89268112,0.12
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,4,0.4,47.04230499,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,5,0.5,62.75474167,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,6,0.6,67.08351898,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,7,0.7,79.10187531,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,8,0.8,86.80213165,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,9,0.9,92.63027954,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,10,1,100.8245773,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,0,100,5.270133495,0.44
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,1,63.09573445,5.517102718,0.48
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,2,39.81071706,5.029078484,0.49
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,3,25.11886432,4.328672886,0.47
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,4,15.84893192,4.612541676,0.45
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,5,10,6.813624382,0.44
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,6,6.309573445,7.93108511,0.44
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,7,3.981071706,6.923209667,0.44
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,8,2.511886432,8.032721519,0.4
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,9,1.584893192,8.877366066,0.4
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,10,1,8.059668541,0.42
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,0,1,4.414360046,0.54
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,1,1.584893192,4.477236748,0.52
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,2,2.511886432,3.884667873,0.56
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,3,3.981071706,2.234169006,0.59
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,4,6.309573445,2.729367018,0.39
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,5,10,3.955044746,0.12
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,6,15.84893192,3.980998516,0.11
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,7,25.11886432,4.860037327,0.07
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,8,39.81071706,5.993105888,0.05
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,9,63.09573445,5.884152412,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,10,100,5.027974129,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,0,1,8.023940086,0.43
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,1,0.630957344,3.989557743,0.48
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,2,0.398107171,2.835781813,0.51
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,3,0.251188643,2.539166927,0.43
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,4,0.158489319,2.607595205,0.33
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,5,0.1,2.804115534,0.29
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,6,0.063095734,3.007711887,0.22
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,7,0.039810717,3.18541503,0.19
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,8,0.025118864,3.547702074,0.12
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,9,0.015848932,3.964853764,0.11
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,10,0.01,4.612482548,0.13
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,0,0,8.02401638,0.43
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,1,18,6.568671703,0.44
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,2,36,4.906541348,0.41
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,3,54,3.361085176,0.44
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,4,72,3.616141319,0.36
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,5,90,3.47025013,0.36
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,6,108,4.147989273,0.26
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,7,126,4.776707649,0.21
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,8,144,5.651586533,0.16
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,9,162,5.582257271,0.15
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,10,180,6.190338612,0.17
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,0,0,8.024962425,0.43
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,1,-0.1,6.499243259,0.44
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,2,-0.2,4.949364185,0.45
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,3,-0.3,3.998311758,0.45
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,4,-0.4,3.347729206,0.46
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,5,-0.5,2.958368778,0.53
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,6,-0.6,2.643872976,0.52
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,7,-0.7,2.403981686,0.51
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,8,-0.8,2.178021669,0.41
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,9,-0.9,2.320157051,0.29
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,10,-1,2.7391572,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,0,0,8.024962425,0.43
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,1,0.1,7.050901413,0.41
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,2,0.2,6.388929844,0.43
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,3,0.3,5.459135056,0.45
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,4,0.4,4.870092869,0.44
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,5,0.5,4.653811455,0.47
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,6,0.6,3.863333702,0.5
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,7,0.7,3.251610041,0.54
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,8,0.8,2.425707817,0.58
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,9,0.9,2.242739201,0.45
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,10,1,4.186136246,0.1
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,0,0,8.024962425,0.43
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,1,90,14.02697468,0.13
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,2,180,10.71603012,0.26
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,3,270,14.00532436,0.14
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Invert,0,0,8.024962425,0.43
+RIB (N=2),Gabor,VGG16,None,1,42,line_drawings_inverted,Invert,1,1,33.43227386,0.31
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,0,0,2596180.5,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,1,0.1,2315147.25,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,2,0.2,1480942.125,0.13
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,3,0.3,839301.1875,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,4,0.4,598558.6875,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,5,0.5,401905.3125,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,6,0.6,504950,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,7,0.7,768201.4375,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,8,0.8,1308484.875,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,9,0.9,2105135.25,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,10,1,2589394.5,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,0,0,2596180.5,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,1,0.1,6545302,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,2,0.2,7500315,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,3,0.3,7355807.5,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,4,0.4,6991328,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,5,0.5,7527301,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,6,0.6,8389366,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,7,0.7,7350057.5,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,8,0.8,6387934.5,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,9,0.9,5871742,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,10,1,5777274,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,0,100,70.55582428,0.21
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,1,63.09573445,88.6461792,0.29
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,2,39.81071706,121.382988,0.27
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,3,25.11886432,323.5945129,0.22
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,4,15.84893192,4539.724609,0.21
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,5,10,27550.1543,0.21
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,6,6.309573445,79444.28906,0.21
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,7,3.981071706,128521.6328,0.16
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,8,2.511886432,140963.6406,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,9,1.584893192,224235.9063,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,10,1,217503.4219,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,0,1,16124.66211,0.32
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,1,1.584893192,13058.45703,0.38
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,2,2.511886432,23968.85547,0.46
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,3,3.981071706,2.053887844,0.6
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,4,6.309573445,2.045865774,0.44
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,5,10,3.441776037,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,6,15.84893192,3.967192411,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,7,25.11886432,6.594221592,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,8,39.81071706,11.47568321,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,9,63.09573445,6.567386627,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,10,100,4.484424591,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,0,1,2596180.5,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,1,0.630957344,240141.375,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,2,0.398107171,4611.266113,0.2
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,3,0.251188643,14.70178795,0.33
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,4,0.158489319,7.674127102,0.37
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,5,0.1,4.17389679,0.3
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,6,0.063095734,2.77996254,0.26
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,7,0.039810717,2.622810125,0.19
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,8,0.025118864,2.808253765,0.14
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,9,0.015848932,3.014783382,0.13
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,10,0.01,3.529000282,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,0,0,2596022.75,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,1,18,2428018,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,2,36,2070695.5,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,3,54,1563312.375,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,4,72,840555.125,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,5,90,254495.375,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,6,108,27598.83008,0.21
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,7,126,2683.401367,0.2
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,8,144,20.52630043,0.13
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,9,162,19.66004944,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,10,180,29.50860023,0.11
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,0,0,2595887.5,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,1,-0.1,2589949.5,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,2,-0.2,2137534.25,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,3,-0.3,1392083.875,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,4,-0.4,703888.0625,0.09
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,5,-0.5,238378.1875,0.07
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,6,-0.6,28130.83203,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,7,-0.7,1057.846924,0.18
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,8,-0.8,48.40771484,0.34
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,9,-0.9,3.734802008,0.33
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,10,-1,3.292931557,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,0,0,2595887.5,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,1,0.1,1057420.5,0.13
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,2,0.2,235458.7344,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,3,0.3,15621.51172,0.13
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,4,0.4,88.87747955,0.19
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,5,0.5,17.4977932,0.34
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,6,0.6,9.219781876,0.41
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,7,0.7,8.702484131,0.41
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,8,0.8,5.481393814,0.44
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,9,0.9,2.378135204,0.44
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,10,1,3.259821415,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,0,0,2595887.5,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,1,90,2827666,0.12
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,2,180,1861089,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,3,270,2274549.5,0.08
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Invert,0,0,2595887.5,0.1
+RIB (N=4),Gabor,VGG16,None,1,42,line_drawings_inverted,Invert,1,1,1385169.25,0.1
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,0,0,2.029883623,0.48
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,1,0.1,1.894324064,0.48
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,2,0.2,1.828910947,0.48
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,3,0.3,1.655635834,0.51
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,4,0.4,1.620504141,0.48
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,5,0.5,1.759480476,0.49
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,6,0.6,1.88403666,0.43
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,7,0.7,2.162734032,0.37
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,8,0.8,2.541176796,0.29
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,9,0.9,2.778661489,0.33
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,10,1,3.083045244,0.23
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,0,0,2.029883623,0.48
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,1,0.1,1.779792786,0.42
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,2,0.2,2.309924364,0.31
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,3,0.3,2.677966833,0.31
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,4,0.4,3.286356926,0.22
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,5,0.5,3.576495171,0.22
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,6,0.6,3.949804306,0.17
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,7,0.7,4.470597744,0.11
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,8,0.8,4.515459061,0.14
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,9,0.9,4.851780891,0.07
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,10,1,4.547781467,0.11
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,0,100,2.854753017,0.53
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,1,63.09573445,2.562067509,0.56
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,2,39.81071706,2.585711956,0.52
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,3,25.11886432,2.585208654,0.53
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,4,15.84893192,2.441476822,0.59
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,5,10,2.573727131,0.57
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,6,6.309573445,2.791483164,0.55
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,7,3.981071706,2.706985712,0.44
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,8,2.511886432,2.515665293,0.33
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,9,1.584893192,2.212262154,0.34
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,10,1,2.164050102,0.31
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,0,1,2.037723303,0.5
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,1,1.584893192,2.036271811,0.51
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,2,2.511886432,2.101925611,0.56
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,3,3.981071706,2.430954456,0.53
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,4,6.309573445,4.155884266,0.29
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,5,10,14.45757484,0.1
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,6,15.84893192,9.670646667,0.11
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,7,25.11886432,5.825314522,0.09
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,8,39.81071706,5.167739391,0.11
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,9,63.09573445,5.192696095,0.1
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,10,100,5.357999325,0.1
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,0,1,2.029883623,0.48
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,1,0.630957344,1.968364,0.56
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,2,0.398107171,2.395329475,0.56
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,3,0.251188643,2.895005226,0.51
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,4,0.158489319,2.872807264,0.46
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,5,0.1,2.683054447,0.37
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,6,0.063095734,2.513106108,0.29
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,7,0.039810717,2.491415977,0.22
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,8,0.025118864,3.125246048,0.15
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,9,0.015848932,3.765039682,0.09
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,10,0.01,4.33016634,0.06
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,0,0,2.029920578,0.48
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,1,18,1.85315764,0.49
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,2,36,1.714914441,0.46
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,3,54,1.556280494,0.51
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,4,72,1.757540941,0.46
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,5,90,2.022973061,0.43
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,6,108,2.645738125,0.3
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,7,126,3.255880833,0.21
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,8,144,3.525790691,0.18
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,9,162,3.686546087,0.14
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,10,180,3.844424963,0.13
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,0,0,2.029820681,0.48
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,1,-0.1,2.005111456,0.51
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,2,-0.2,1.991353154,0.52
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,3,-0.3,2.000260115,0.52
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,4,-0.4,1.986618519,0.49
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,5,-0.5,1.94301641,0.51
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,6,-0.6,1.90384233,0.5
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,7,-0.7,1.862620711,0.51
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,8,-0.8,1.856976032,0.47
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,9,-0.9,2.011958361,0.32
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,10,-1,3.127370358,0.1
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,0,0,2.029820681,0.48
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,1,0.1,1.978378296,0.52
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,2,0.2,2.099151373,0.54
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,3,0.3,2.4910326,0.54
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,4,0.4,2.993598223,0.54
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,5,0.5,3.144449711,0.5
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,6,0.6,2.915023565,0.5
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,7,0.7,2.946573496,0.48
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,8,0.8,2.497918606,0.42
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,9,0.9,2.067698479,0.37
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,10,1,5.059126377,0.1
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,0,0,2.029820681,0.48
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,1,90,4.066043854,0.14
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,2,180,4.435479164,0.26
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,3,270,4.018604279,0.18
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Invert,0,0,2.029820681,0.48
+Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Invert,1,1,1.946539044,0.56
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,0,0,1074.824951,0.2
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,1,0.1,200.736969,0.21
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,2,0.2,33.38674545,0.14
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,3,0.3,3.182906389,0.14
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,4,0.4,3.262520075,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,5,0.5,3.33490181,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,6,0.6,3.243538141,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,7,0.7,3.42393136,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,8,0.8,3.6291399,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,9,0.9,3.965674639,0.11
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Uniform,10,1,4.689809799,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,0,0,1074.824951,0.2
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,1,0.1,67.45574188,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,2,0.2,8.138703346,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,3,0.3,29.37801361,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,4,0.4,29.08914566,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,5,0.5,70.53910828,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,6,0.6,95.28401184,0.11
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,7,0.7,63.79017639,0.06
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,8,0.8,46.94461441,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,9,0.9,27.46128654,0.11
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Salt and Pepper,10,1,20.25675201,0.11
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,0,100,2.971159697,0.39
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,1,63.09573445,3.145632982,0.36
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,2,39.81071706,3.546908379,0.34
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,3,25.11886432,6.849481583,0.36
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,4,15.84893192,63.16797256,0.32
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,5,10,24.58775902,0.37
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,6,6.309573445,29.67758942,0.44
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,7,3.981071706,2.890899658,0.42
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,8,2.511886432,4.15640974,0.47
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,9,1.584893192,5.267948151,0.47
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,High Pass,10,1,4.94882822,0.53
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,0,1,1592.145996,0.38
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,1,1.584893192,828.7909546,0.45
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,2,2.511886432,42.48814774,0.44
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,3,3.981071706,5.747919083,0.51
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,4,6.309573445,6.078402519,0.34
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,5,10,17.57259178,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,6,15.84893192,8.108766556,0.09
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,7,25.11886432,4.660646915,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,8,39.81071706,4.30856657,0.11
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,9,63.09573445,4.136008739,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Low Pass,10,100,3.864782333,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,0,1,1074.824951,0.2
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,1,0.630957344,2.337049246,0.35
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,2,0.398107171,2.101999283,0.4
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,3,0.251188643,2.277179956,0.39
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,4,0.158489319,2.284916639,0.37
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,5,0.1,2.264121771,0.38
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,6,0.063095734,2.317307949,0.3
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,7,0.039810717,2.422087669,0.23
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,8,0.025118864,2.620108604,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,9,0.015848932,3.020801306,0.17
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Contrast,10,0.01,3.461363554,0.14
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,0,0,1074.866333,0.2
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,1,18,593.9831543,0.19
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,2,36,322.3363342,0.19
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,3,54,89.13386536,0.15
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,4,72,53.78492355,0.15
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,5,90,2.909785986,0.12
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,6,108,2.970992327,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,7,126,2.978864431,0.16
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,8,144,3.090785503,0.17
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,9,162,3.464544296,0.13
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Phase Scrambling,10,180,3.439199209,0.11
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,0,0,1075.078003,0.2
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,1,-0.1,275.7762146,0.2
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,2,-0.2,47.70883942,0.22
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,3,-0.3,4.259884357,0.21
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,4,-0.4,2.63476491,0.22
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,5,-0.5,2.483227015,0.23
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,6,-0.6,2.41883707,0.24
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,7,-0.7,2.376697302,0.23
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,8,-0.8,2.401242495,0.22
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,9,-0.9,2.6389606,0.19
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Darken,10,-1,3.676917791,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,0,0,1075.078003,0.2
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,1,0.1,123.7960815,0.26
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,2,0.2,3.919723749,0.33
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,3,0.3,3.092804193,0.35
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,4,0.4,2.867485285,0.37
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,5,0.5,2.865140438,0.41
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,6,0.6,2.65463829,0.43
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,7,0.7,2.2314291,0.44
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,8,0.8,2.016149521,0.39
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,9,0.9,2.087030649,0.26
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Brighten,10,1,3.552881479,0.1
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,0,0,1075.078003,0.2
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,1,90,1440.331665,0.09
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,2,180,3482.350098,0.14
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Rotation,3,270,16.12107086,0.08
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Invert,0,0,1075.078003,0.2
+RIB Recurrent,Gabor,VGG16,None,1,42,line_drawings_inverted,Invert,1,1,4394354,0.15
